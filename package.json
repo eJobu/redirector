@@ -1,0 +1,12 @@
+{
+  "name": "redirectejobu",
+  "version": "1.0.0",
+  "description": "a simple redirector from ejobu.rw to expensa.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "eJobu, Inc",
+  "license": "ISC"
+}
